@@ -27,5 +27,5 @@ Networks
 
 Roughly it covers all the GANs. There are more left, which will added later.
 
-Update On: 17-08-2021
+*Update On: 17-08-2021*
 
